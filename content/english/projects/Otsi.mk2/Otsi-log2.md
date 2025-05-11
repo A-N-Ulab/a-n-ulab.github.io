@@ -29,4 +29,4 @@ Another change is that right now Otsi is no longer gonna be a handheld but rathe
 ### More to come when PCBs rev2 arrive
 
 <br/>
-{{< button label="Return" link="/projects/Otsi.mk2/Otsi-info" style="solid" >}}
+{{< button label="Return" link="/projects/Otsi.mk2/Otsi-info/" style="solid" >}}

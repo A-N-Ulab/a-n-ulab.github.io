@@ -23,7 +23,7 @@ features:
     button:
       enable: true
       label: "Read more"
-      link: "/projects/Otsi.mk2/Otsi-info"
+      link: "/projects/Otsi.mk2/Otsi-info/"
 ---
 
 

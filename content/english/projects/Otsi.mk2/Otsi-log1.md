@@ -43,7 +43,7 @@ This project log is slowly coming to an end but We hope you have learned that ru
 ##### ~Otsi development team
 
 <br/>
-{{< button label="Return" link="/projects/Otsi.mk2/Otsi-info" style="solid" >}}
+{{< button label="Return" link="/projects/Otsi.mk2/Otsi-info/" style="solid" >}}
 
 
 
