@@ -1,0 +1,34 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+weight = 2
+name = "Projects"
+
+[[main]]
+parent = "Projects"
+name = "Otsi.mk2"
+url = "/projects/Otsi.mk2/Otsi-info"
+[[main]]
+parent = "Projects"
+name = "Hackathon2024"
+url = "/projects/Hackathon2024/Chloe"
+
+[[main]]
+name = "About Us"
+url = "/about"
+weight = 3
+
+[[main]]
+name = "Contact Us"
+url = "/contact"
+weight = 4
+
+# footer menu
+#[[footer]]
+#name = "About"
+#url = "/about"
+#weight = 1

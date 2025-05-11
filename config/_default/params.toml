@@ -1,0 +1,28 @@
+favicon = "images/favicon.png"
+logo = "images/EntireLogo-fixedSize.png"
+logo_darkmode = "images/EntireLogo-fixedSize-White.png"
+logo_width = "160px"
+logo_height = "32px"
+logo_webp = true
+logo_text = "ANUlab"
+navbar_fixed = true
+theme_switcher = true
+theme_default = "dark"
+
+# copyright
+copyright = "©2025 ANUlab Szymon Glinka"
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# search
+[search]
+enable = true
+primary_color = "#121212"
+include_sections = ["blog"]
+show_image = true
+show_description = true
+show_tags = true
+show_categories = true
