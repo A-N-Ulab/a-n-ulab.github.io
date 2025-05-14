@@ -18,8 +18,18 @@ This project has been created in Polish, all the docs are in Polish.
 - **Github Repo:** [Link](https://github.com/A-N-Ulab/hackathon2024)
 
 {{< image src="galleries/galleryH2024/featured.png" alt="alter-text" position="center" command="fill">}}
-### Story
-To write...
+### Origin story of out vilan
+T### Origin story of out villain
+There were a few categories but only one suited us. Education. We thought that it'll be the best for us bc we are too dumb for gamedev and other categories were just BORING. So education It was. After a lot of thinking (approx. 15min) we came up with a not so great but wonderful idea of a duolingo but math and with a lot of inappropriate words.
+
+#### First issues. Don't ever use python for a web app...
+Yep, python and flask. Technically speaking wonderful but in fact it was awful. We spend 5h making a stupid login screen just bc getting data from HTML entries. It was a pain...
+
+#### Team matters
+Yes, our team was 3 ppl, for 6 hours... Then there were two of us. And it was kinda difficult to make some app with just the two of us.
+
+### It ended well
+After all it ended well, although we didn't win we had a shit ton of fun. And it was awesome to spend some time together coding.
 
 ###### Stay positive and keep dreaming
 ###### ~Totally Not Suspicious Team
