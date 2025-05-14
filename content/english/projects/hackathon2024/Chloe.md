@@ -19,7 +19,6 @@ This project has been created in Polish, all the docs are in Polish.
 
 {{< image src="galleries/galleryH2024/featured.png" alt="alter-text" position="center" command="fill">}}
 ### Origin story of out vilan
-T### Origin story of out villain
 There were a few categories but only one suited us. Education. We thought that it'll be the best for us bc we are too dumb for gamedev and other categories were just BORING. So education It was. After a lot of thinking (approx. 15min) we came up with a not so great but wonderful idea of a duolingo but math and with a lot of inappropriate words.
 
 #### First issues. Don't ever use python for a web app...
