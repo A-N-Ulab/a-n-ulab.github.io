@@ -1,5 +1,5 @@
 ---
-title: "Project -> HackYeah 2024, Chloe"
+title: "Project -> Hackathon Entry"
 date: 2024-09-29
 description: "project made during hackyeah2024"
 ---
@@ -19,7 +19,7 @@ This project has been created in Polish, all the docs are in Polish.
 
 {{< image src="galleries/galleryH2024/featured.png" alt="alter-text" position="center" command="fill">}}
 ### Story
-To write...
+This is our entry for *Open Task: EDUCATION* of HackYeah2024. Our goal was to make a tool to help with learning math. With a little twist, our cute frog Chloe is sometimes passive-aggressive and cursing quite a bit. We all know that if it's fun, it's remembered more easily. Sadly we were doing this project in a team of 3 and later of 2 so we weren't able to add more advanced features... None the less this was an awesome project in our opinion. But doing it in a team of friends was even better
 
 ###### Stay positive and keep dreaming
 ###### ~Totally Not Suspicious Team

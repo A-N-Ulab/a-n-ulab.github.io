@@ -26,7 +26,12 @@ Another change is that right now Otsi is no longer gonna be a handheld but rathe
 ##### 3D models and renders
 {{< image src="galleries/galleryOL2/galleryRender_v3.png" alt="alter-text" position="center" command="fill">}}
 
-### More to come when PCBs rev2 arrive
+### PCB rev2.5
+New PCBs are here and have been tested. This normally never happens but everything is working on the first try!
+{{< image src="galleries/galleryOL2/beauty.jpg" alt="alter-text" position="center" command="fill">}}
+Those PCBs have been tested and are working well, every sensor is seen by Pi Pico and everything works. Next steps are:
+- Work on multimeter circuit
+- Work on integrating modules into the PCB itself
 
 <br/>
 {{< button label="Return" link="/projects/otsi.mk2/otsi-info/" style="solid" >}}

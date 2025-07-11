@@ -10,6 +10,10 @@ description: "Another version of everyone's beloved Otsi Cyberpet"
 This project is still in ACTIVE development! And because of studies we don't know when she will be finished
 {{< /notice >}}
 
+{{< notice "info" >}}
+We are taking a break from Otsi for a few weeks, the past 6 months were filled with pushing her and we need to rest.
+{{< /notice >}}
+
 ### What exactly is Otsi
 Otsi is our project that started as a silly submission to [Cyberdeck.cafe's](https://cyberdeck.cafe) cyber-pet contest in fall of 2023 but after winning it we saw her full potential and devoted ourselves to improve every inconvenience and add more!
 

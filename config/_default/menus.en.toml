@@ -9,23 +9,34 @@ weight = 2
 name = "Projects"
 
 [[main]]
+weight = 3
+name = "Remixes"
+
+[[main]]
 parent = "Projects"
 name = "Otsi.mk2"
 url = "/projects/Otsi.mk2/Otsi-info"
+weight = 1
 [[main]]
 parent = "Projects"
 name = "Hackathon2024"
-url = "/projects/Hackathon2024/Chloe"
+url = "/projects/Hackyeah2024"
+weight = 2
+
+[[main]]
+parent = "Remixes"
+name = "CapibaraZero"
+url = "/projects/CapibaraZero"
 
 [[main]]
 name = "About Us"
 url = "/about"
-weight = 3
+weight = 4
 
 [[main]]
 name = "Contact Us"
 url = "/contact"
-weight = 4
+weight = 5
 
 # footer menu
 #[[footer]]
